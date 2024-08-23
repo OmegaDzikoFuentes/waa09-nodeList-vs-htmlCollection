@@ -74,3 +74,4 @@ Notice that the `divChildNodes` is a `NodeList` of a length of 3. The
 set to the `helloWorld` variable. The `span` element should be the second node.
 And the third node should be a text node with whitespace. Confirm this behavior
 when the `debugger` is triggered.
+# waa09-nodeList-vs-htmlCollection
